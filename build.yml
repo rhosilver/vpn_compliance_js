@@ -15,7 +15,7 @@ applog: "rholog.txt"
 #  proxy: "http://wwwgate0.mot.com:1080"
 iphone:
   configuration: "Release"
-  sdk: "iphoneos7.1"
+  sdk: "iphoneos8.2"
   entitlements: ./production/Entitlements.plist
 #  provisionprofile: "iOS Team Provisioning Profile"
 #  production:
