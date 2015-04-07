@@ -1,5 +1,5 @@
 sdkversion: "3.5.0"
-name: "compliancetest_js"
+name: "vpn_compliancetest_js"
 app_type: "rhoelements"
 version: "1.0"
 vendor: "rhomobile"
@@ -20,8 +20,8 @@ iphone:
 #  provisionprofile: "iOS Team Provisioning Profile"
 #  production:
   codesignidentity: "iPhone Developer: Sunil Kumar (W8L77BLH6N)"
-  BundleIdentifier: "com.rhomobile.compliancetestjs"
-  BundleURLScheme: "compliancetestjs"
+  BundleIdentifier: "com.rhomobile.vpncompliancetestjs"
+  BundleURLScheme: "vpncompliancetestjs"
   extensions:
     - rhoconnect-client
     - audiocapture
