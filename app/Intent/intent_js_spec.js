@@ -199,7 +199,7 @@ describe('Intent_UseCases Functionality Test', function () {
                 params = new parameters(Rho.Intent.BROADCAST,"","com.rhomobile.BROADCAST","","com.rhomobile.compliancetest_js","","","",data);
             }
             if (isApplePlatform()) {
-                params = new parameters(Rho.Intent.BROADCAST,"","","","compliancetestjs","","","",data);
+                params = new parameters(Rho.Intent.BROADCAST,"","","","vpncompliancetestjs","","","",data);
             }
             if (isAnyWindowsFamilyPlatform()) {
                 params = new parameters(Rho.Intent.BROADCAST,"","","","rhomobile compliancetest_js/compliancetest_js.exe","","","",data);
