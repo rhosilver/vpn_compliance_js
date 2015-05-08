@@ -19,7 +19,7 @@ iphone:
   entitlements: ./production/Entitlements.plist
 #  provisionprofile: "iOS Team Provisioning Profile"
 #  production:
-  codesignidentity: "iPhone Developer: Sunil Kumar (W8L77BLH6N)"
+  codesignidentity: "iPhone Developer"
   BundleIdentifier: "com.rhomobile.vpncompliancetestjs"
   BundleURLScheme: "vpncompliancetestjs"
   extensions:
