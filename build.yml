@@ -30,6 +30,7 @@ iphone:
     - sensor
     - printing
     - printing_zebra
+    - mediacapture
 wp:
   productid: "88e69430-071c-0131-3d46-606720a825c8"
 symbian:
